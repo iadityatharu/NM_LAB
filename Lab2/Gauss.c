@@ -47,11 +47,5 @@ int main()
         x[i]=x[i]/a[i][i];
     }
 //Displaying solution
-    printf("Solutions\n");
-    for(i=1;i<=n;i++)
-    {
-        printf("x%d = %.3f\n",i,x[i]);
-    }
-    
-    return 0;
+  
 }
